@@ -27,7 +27,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "◦•●◉✿Heaven heavenly bot ai✿◉●•◦ ",
+  "nickNameBot": "◦•●◉✿𝐇𝐄𝐀𝐕𝐄𝐍 𝐒𝐊𝐄𝐓𝐂𝐇 𝐁𝐎𝐓✿◉●•◦ ",
   "prefix": "+",
   "database": {
     "type": "sqlite",
